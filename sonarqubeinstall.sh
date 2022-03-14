@@ -4,6 +4,10 @@
 #Date: Feb 26 2022 $ modified March 14 2022
 
 
+#Description: *** A script to automate the installation ****
+#         ******  of the Sonarqube server on CentOS 7    ****
+
+
 echo "We are installing Sonarqube on CentOS7"
 
 
