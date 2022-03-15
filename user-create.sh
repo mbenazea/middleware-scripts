@@ -15,3 +15,6 @@ passwd -d ${i}
 #welcome1
 echo "The following $i accounts were created successfully"
 done
+
+# to delet all the adder=d user
+# do userdel -r and run same script.
