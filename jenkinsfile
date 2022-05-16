@@ -4,23 +4,23 @@ pipeline {
     stages {
         stage('Hello') {
             steps {
-                echo 'Hello World'
+                echo 'Hello'
             }
         }
     
         stage('build') {
             steps {
-                echo 'Hello World'
+                echo 'Build'
             }
         }
         stage('Test') {
             steps {
-                echo 'Hello World'
+                echo 'Test'
             }
         }
         stage('Deloy') {
             steps {
-                echo 'Hello World'
+                echo 'Deploy'
             }
         }
     }
